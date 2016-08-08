@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/mathcode/Metakhoj/Docker/Model/model.ckpt"
+all_model_checkpoint_paths: "/home/mathcode/Metakhoj/Docker/Model/model.ckpt"
