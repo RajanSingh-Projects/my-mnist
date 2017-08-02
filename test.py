@@ -93,7 +93,7 @@ def main():
     #print("Model restored.")
     print "predictions", prediction.eval(feed_dict={x: myarr})
 #  print result
-# https://www.classes.cs.uchicago.edu/archive/2013/spring/12300-1/pa/pa1/digit.png
+
 if __name__=="__main__":
   main()
 
